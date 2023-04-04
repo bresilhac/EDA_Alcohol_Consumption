@@ -6,4 +6,4 @@ I utilized the drinks.csv data file from Kaggle. This data includes information 
 After cleaning and preparing the data for study, I used a variety of algorithms to show the relationship between religion, geographical location and
 alcohol consumption.
 
-I give full credit to MAMMAD ABBASLI on Kaggle for the basis for this study.
+I give full credit to MAMMAD ABBASLI on Kaggle for the basis of this study.
