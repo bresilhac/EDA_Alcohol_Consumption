@@ -8,4 +8,6 @@ alcohol consumption.
 
 The data shows that where one lives and even what religion one practices determines if, what type and how much alcohol one drinks.
 
+The datafile used for the project can be found here in the repository.
+
 I give full credit to MAMMAD ABBASLI on Kaggle for the basis of this study.
