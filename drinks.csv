@@ -1,0 +1,194 @@
+,country,beer_servings,spirit_servings,wine_servings,total_litres_of_pure_alcohol,religion
+0,Afghanistan,0,0,0,0,muslim mostly
+1,Albania,89,132,54,4.9,muslim mostly
+2,Algeria,25,0,14,0.7,christian mostly
+3,Andorra,245,138,312,12.4,christian mostly
+4,Angola,217,57,45,5.9,christian mostly
+5,Antigua & Barbuda,102,128,45,4.9,christian mostly
+6,Argentina,193,25,221,8.3,christian mostly
+7,Armenia,21,179,11,3.8,christian mostly
+8,Australia,261,72,212,10.4,christian mostly
+9,Austria,279,75,191,9.7,christian mostly
+10,Azerbaijan,21,46,5,1.3,muslim mostly
+11,Bahamas,122,176,51,6.3,christian mostly
+12,Bahrain,42,63,7,2,muslim mostly
+13,Bangladesh,0,0,0,0,muslim mostly
+14,Barbados,143,173,36,6.3,christian mostly
+15,Belarus,142,373,42,14.4,christian mostly
+16,Belgium,295,84,212,10.5,christian mostly
+17,Belize,263,114,8,6.8,other
+18,Benin,34,4,13,1.1,other
+19,Bhutan,23,0,0,0.4,christian mostly
+20,Bolivia,167,41,8,3.8,christian mostly
+21,Bosnia-Herzegovina,76,173,8,4.6,christian mostly
+22,Botswana,173,35,35,5.4,christian mostly
+23,Brazil,245,145,16,7.2,christian mostly
+24,Brunei,31,2,1,0.6,christian mostly
+25,Bulgaria,231,252,94,10.3,christian mostly
+26,Burkina Faso,25,7,7,4.3,christian mostly
+27,Burundi,88,0,0,6.3,other
+28,Cote d'Ivoire,37,1,7,4,christian mostly
+29,Cabo Verde,144,56,16,4,other
+30,Cambodia,57,65,1,2.2,other
+31,Cameroon,147,1,4,5.8,christian mostly
+32,Canada,240,122,100,8.2,christian mostly
+33,Central African Republic,17,2,1,1.8,christian mostly
+34,Chad,15,1,1,0.4,christian mostly
+35,Chile,130,124,172,7.6,christian mostly
+36,China,79,192,8,5,other
+37,Colombia,159,76,3,4.2,christian mostly
+38,Comoros,1,3,1,0.1,other
+39,Congo,76,1,9,1.7,christian mostly
+40,Cook Islands,0,254,74,5.9,christian mostly
+41,Costa Rica,149,87,11,4.4,christian mostly
+42,Croatia,230,87,254,10.2,christian mostly
+43,Cuba,93,137,5,4.2,christian mostly
+44,Cyprus,192,154,113,8.2,christian mostly
+45,Czech Republic,361,170,134,11.8,christian mostly
+46,North Korea,0,0,0,0,other
+47,DR Congo,32,3,1,2.3,christian mostly
+48,Denmark,224,81,278,10.4,christian mostly
+49,Djibouti,15,44,3,1.1,christian mostly
+50,Dominica,52,286,26,6.6,christian mostly
+51,Dominican Republic,193,147,9,6.2,christian mostly
+52,Ecuador,162,74,3,4.2,christian mostly
+53,Egypt,6,4,1,0.2,muslim mostly
+54,El Salvador,52,69,2,2.2,christian mostly
+55,Equatorial Guinea,92,0,233,5.8,christian mostly
+56,Eritrea,18,0,0,0.5,christian mostly
+57,Estonia,224,194,59,9.5,christian mostly
+58,Ethiopia,20,3,0,0.7,christian mostly
+59,Fiji,77,35,1,2,christian mostly
+60,Finland,263,133,97,10,christian mostly
+61,France,127,151,370,11.8,christian mostly
+62,Gabon,347,98,59,8.9,other
+63,Gambia,8,0,1,2.4,other
+64,Georgia,52,100,149,5.4,christian mostly
+65,Germany,346,117,175,11.3,christian mostly
+66,Ghana,31,3,10,1.8,christian mostly
+67,Greece,133,112,218,8.3,christian mostly
+68,Grenada,199,438,28,11.9,other
+69,Guatemala,53,69,2,2.2,other
+70,Guinea,9,0,2,0.2,other
+71,Guinea-Bissau,28,31,21,2.5,other
+72,Guyana,93,302,1,7.1,other
+73,Haiti,1,326,1,5.9,christian mostly
+74,Honduras,69,98,2,3,christian mostly
+75,Hungary,234,215,185,11.3,christian mostly
+76,Iceland,233,61,78,6.6,christian mostly
+77,India,9,114,0,2.2,other
+78,Indonesia,5,1,0,0.1,muslim mostly
+79,Iran,0,0,0,0,muslim mostly
+80,Iraq,9,3,0,0.2,muslim mostly
+81,Ireland,313,118,165,11.4,christian mostly
+82,Israel,63,69,9,2.5,jews
+83,Italy,85,42,237,6.5,christian mostly
+84,Jamaica,82,97,9,3.4,christian mostly
+85,Japan,77,202,16,7,other
+86,Jordan,6,21,1,0.5,muslim mostly
+87,Kazakhstan,124,246,12,6.8,muslim mostly
+88,Kenya,58,22,2,1.8,christian mostly
+89,Kiribati,21,34,1,1,other
+90,Kuwait,0,0,0,0,muslim mostly
+91,Kyrgyzstan,31,97,6,2.4,muslim mostly
+92,Laos,62,0,123,6.2,christian mostly
+93,Latvia,281,216,62,10.5,christian mostly
+94,Lebanon,20,55,31,1.9,christian mostly
+95,Lesotho,82,29,0,2.8,christian mostly
+96,Liberia,19,152,2,3.1,muslim mostly
+97,Libya,0,0,0,0,muslim mostly
+98,Lithuania,343,244,56,12.9,christian mostly
+99,Luxembourg,236,133,271,11.4,christian mostly
+100,Madagascar,26,15,4,0.8,christian mostly
+101,Malawi,8,11,1,1.5,christian mostly
+102,Malaysia,13,4,0,0.3,muslim mostly
+103,Maldives,0,0,0,0,christian mostly
+104,Mali,5,1,1,0.6,christian mostly
+105,Malta,149,100,120,6.6,christian mostly
+106,Marshall Islands,0,0,0,0,christian mostly
+107,Mauritania,0,0,0,0,christian mostly
+108,Mauritius,98,31,18,2.6,christian mostly
+109,Mexico,238,68,5,5.5,christian mostly
+110,Micronesia,62,50,18,2.3,christian mostly
+111,Monaco,0,0,0,0,muslim mostly
+112,Mongolia,77,189,8,4.9,christian mostly
+113,Montenegro,31,114,128,4.9,christian mostly
+114,Morocco,12,6,10,0.5,christian mostly
+115,Mozambique,47,18,5,1.3,other
+116,Myanmar,5,1,0,0.1,other
+117,Namibia,376,3,1,6.8,christian mostly
+118,Nauru,49,0,8,1,christian mostly
+119,Nepal,5,6,0,0.2,christian mostly
+120,Netherlands,251,88,190,9.4,christian mostly
+121,New Zealand,203,79,175,9.3,christian mostly
+122,Nicaragua,78,118,1,3.5,other
+123,Niger,3,2,1,0.1,muslim mostly
+124,Nigeria,42,5,2,9.1,muslim mostly
+125,Niue,188,200,7,7,other
+126,Norway,169,71,129,6.7,christian mostly
+127,Oman,22,16,1,0.7,muslim mostly
+128,Pakistan,0,0,0,0,muslim mostly
+129,Palau,306,63,23,6.9,christian mostly
+130,Panama,285,104,18,7.2,christian mostly
+131,Papua New Guinea,44,39,1,1.5,christian mostly
+132,Paraguay,213,117,74,7.3,christian mostly
+133,Peru,163,160,21,6.1,christian mostly
+134,Philippines,71,186,1,4.6,christian mostly
+135,Poland,343,215,56,10.9,christian mostly
+136,Portugal,194,67,339,11,christian mostly
+137,Qatar,1,42,7,0.9,muslim mostly
+138,South Korea,140,16,9,9.8,other
+139,Moldova,109,226,18,6.3,christian mostly
+140,Romania,297,122,167,10.4,christian mostly
+141,Russian Federation,247,326,73,11.5,christian mostly
+142,Rwanda,43,2,0,6.8,christian mostly
+143,St. Kitts & Nevis,194,205,32,7.7,christian mostly
+144,St. Lucia,171,315,71,10.1,christian mostly
+145,St. Vincent & the Grenadines,120,221,11,6.3,christian mostly
+146,Samoa,105,18,24,2.6,christian mostly
+147,San Marino,0,0,0,0,christian mostly
+148,Sao Tome & Principe,56,38,140,4.2,other
+149,Saudi Arabia,0,5,0,0.1,muslim mostly
+150,Senegal,9,1,7,0.3,christian mostly
+151,Serbia,283,131,127,9.6,christian mostly
+152,Seychelles,157,25,51,4.1,christian mostly
+153,Sierra Leone,25,3,2,6.7,christian mostly
+154,Singapore,60,12,11,1.5,other
+155,Slovakia,196,293,116,11.4,christian mostly
+156,Slovenia,270,51,276,10.6,christian mostly
+157,Solomon Islands,56,11,1,1.2,other
+158,Somalia,0,0,0,0,muslim mostly
+159,South Africa,225,76,81,8.2,christian mostly
+160,Spain,284,157,112,10,christian mostly
+161,Sri Lanka,16,104,0,2.2,other
+162,Sudan,8,13,0,1.7,muslim mostly
+163,Suriname,128,178,7,5.6,other
+164,Swaziland,90,2,2,4.7,christian mostly
+165,Sweden,152,60,186,7.2,christian mostly
+166,Switzerland,185,100,280,10.2,christian mostly
+167,Syria,5,35,16,1,muslim mostly
+168,Tajikistan,2,15,0,0.3,muslim mostly
+169,Thailand,99,258,1,6.4,other
+170,Macedonia,106,27,86,3.9,muslim mostly
+171,Timor-Leste,1,1,4,0.1,other
+172,Togo,36,2,19,1.3,other
+173,Tonga,36,21,5,1.1,other
+174,Trinidad & Tobago,197,156,7,6.4,other
+175,Tunisia,51,3,20,1.3,muslim mostly
+176,Turkey,51,22,7,1.4,muslim mostly
+177,Turkmenistan,19,71,32,2.2,muslim mostly
+178,Tuvalu,6,41,9,1,christian mostly
+179,Uganda,45,9,0,8.3,christian mostly
+180,Ukraine,206,237,45,8.9,christian mostly
+181,United Arab Emirates,16,135,5,2.8,muslim mostly
+182,United Kingdom,219,126,195,10.4,christian mostly
+183,Tanzania,36,6,1,5.7,christian mostly
+184,USA,249,158,84,8.7,christian mostly
+185,Uruguay,115,35,220,6.6,christian mostly
+186,Uzbekistan,25,101,8,2.4,muslim mostly
+187,Vanuatu,21,18,11,0.9,christian mostly
+188,Venezuela,333,100,3,7.7,christian mostly
+189,Vietnam,111,2,1,2,other
+190,Yemen,6,0,0,0.1,muslim mostly
+191,Zambia,32,19,4,2.5,christian mostly
+192,Zimbabwe,64,18,4,4.7,christian mostly
