@@ -6,6 +6,8 @@ I utilized the drinks.csv data file from Kaggle. This data includes information 
 After cleaning and preparing the data for study, I used a variety of algorithms to show the relationship between religion, geographical location and
 alcohol consumption.
 
+## What The Data Shows
+
 The data shows that where one lives and even what religion one practices determines if, what type and how much alcohol one drinks.
 
 The datafile used for the project can be found here in the repository.
