@@ -13,3 +13,6 @@ alcohol consumption.
 * The datafile used for the project can be found here in the repository.
 
 * I give full credit to MAMMAD ABBASLI on Kaggle for the basis of this study.
+
+![image](https://user-images.githubusercontent.com/57829083/230065221-eae198c0-4663-4d1c-9a97-bf78203e02e4.png)
+
