@@ -6,7 +6,7 @@ I utilized the drinks.csv data file from Kaggle. This data includes information 
 After cleaning and preparing the data for study, I used a variety of algorithms to show the relationship between religion, geographical location and
 alcohol consumption.
 
-<a href"https://github.com/bresilhac/EDA_Alcohol_Consumption/blob/main/alcohol-consumption-eda%20(1).ipynb">Check out the notebook here<a/>
+<a href"https://github.com/bresilhac/EDA_Alcohol_Consumption/blob/main/alcohol-consumption-eda%20(1).ipynb" onclick="window.open('https://github.com/bresilhac/EDA_Alcohol_Consumption/blob/main/alcohol-consumption-eda%20(1).ipynb','_self');">
 
 ## What The Data Shows
 
